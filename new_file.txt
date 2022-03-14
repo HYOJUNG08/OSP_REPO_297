@@ -2,3 +2,4 @@ git text
 hello
 test
 f2_test #1 modified
+f2_test #2 modified
